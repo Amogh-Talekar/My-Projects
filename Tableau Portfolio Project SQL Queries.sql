@@ -181,4 +181,8 @@ order by PercentPopulationInfected desc
 
 
 
+--Visualization Link: https://public.tableau.com/views/AirBnBFullProject_17502233716820/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+
 
